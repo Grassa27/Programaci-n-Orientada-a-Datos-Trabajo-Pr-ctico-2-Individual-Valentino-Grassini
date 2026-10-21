@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secretos
+.env
+
+# Datos completos (grandes): sólo se versiona la muestra
+data/*
+!data/README.md
+!data/muestra_precios.csv
+!data/muestra_precios.json
+
+# Salidas generadas por el programa (se recrean con python src/main.py)
+outputs/
