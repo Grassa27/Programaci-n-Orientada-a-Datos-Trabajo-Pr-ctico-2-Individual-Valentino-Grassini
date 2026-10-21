@@ -21,10 +21,11 @@ decenas de miles de filas, así que es muy pesado para subirlo al repositorio.
 | `muestra_precios.csv` | Una muestra de 59 filas con las mismas columnas que el archivo oficial |
 | `muestra_precios.json` | La misma muestra pero en JSON, para comprobar que leer los dos formatos da lo mismo |
 
-> **Importante:** la muestra es **inventada** (sintética). Tiene las mismas
-> columnas que el archivo oficial, pero las estaciones, los CUIT y los precios los
-> generé para poder probar el programa. Por eso los nombres de las empresas dicen
-> "(ficticia)".
+> **Importante:** la muestra es **sintética y fue generada con IA**. Tiene las
+> mismas columnas que el archivo oficial, pero las estaciones, los CUIT y los
+> precios son inventados, solo para poder probar el programa. Por eso los nombres
+> de las empresas dicen "(ficticia)". El CSV y el JSON tienen exactamente los
+> mismos datos.
 >
 > Además, le puse 7 filas con errores a propósito, para ver si el programa los
 > detecta: una fila repetida, dos CUIT mal, un precio vacío, un precio negativo,
