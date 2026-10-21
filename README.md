@@ -42,8 +42,8 @@ ajustar por inflación, mapas ni predicciones.
   un horario (diurno o nocturno), desde una fecha.
 
 Como el archivo oficial es muy grande, en el repositorio dejé una **muestra de 59
-filas inventada** (sintética) con las mismas columnas que el original, para poder
-probar el programa. Le agregué errores a propósito para ver que la validación los
+filas sintética, generada con IA**, con las mismas columnas que el original, para
+poder probar el programa. No son datos reales. Le agregué errores a propósito para ver que la validación los
 detecte. Todo el detalle de las columnas y las limitaciones está en
 [`data/README.md`](data/README.md).
 
@@ -209,7 +209,7 @@ duplicada, y que las cuentas cierran: 52 + 6 + 1 = 59.
 - La **diferencia %** indica cuánto más caro es el litro en la provincia más cara
   comparado con la más barata. Por ejemplo, un 15 % quiere decir que en una
   provincia se paga 15 % más que en la otra por el mismo combustible.
-- **Ojo:** estos números salen de la muestra inventada, así que **no dicen nada
+- **Ojo:** estos números salen de la muestra generada con IA, así que **no dicen nada
   de la realidad**. Solo sirven para mostrar que el programa funciona. Para sacar
   conclusiones de verdad hay que correrlo con el archivo oficial.
 - El promedio es por estación, no por litros vendidos (esos datos no están). Si
