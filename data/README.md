@@ -8,7 +8,7 @@
   buscando "Precios en surtidor" (también está en <http://datos.energia.gob.ar>)
 - **Licencia:** Creative Commons Attribution 4.0 (CC BY 4.0), o sea que se puede
   usar libremente siempre que se cite la fuente
-- **Fecha de consulta:** _completar con la fecha en que descargues el archivo_
+- **Fecha de consulta:** _21/10/2026_
 
 Por ley, las estaciones de servicio tienen que informarle sus precios a la
 Secretaría de Energía, y con eso se arma este conjunto. El archivo completo tiene
