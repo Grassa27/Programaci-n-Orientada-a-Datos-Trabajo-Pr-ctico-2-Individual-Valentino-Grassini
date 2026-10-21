@@ -53,8 +53,8 @@ Hace falta **Python 3.10 o más nuevo**. No hay que instalar ninguna librería,
 porque usé solamente lo que trae Python (`csv`, `json`, `re`, `unittest`, etc.).
 
 ```bash
-git clone <url-del-repositorio>
-cd tp2-grassini
+  git clone https://github.com/TU_USUARIO/Programaci-n-Orientada-a-Datos-Trabajo-Pr-ctico-2-Individual-Valentino-Grassini.git
+  cd Programaci-n-Orientada-a-Datos-Trabajo-Pr-ctico-2-Individual-Valentino-Grassini
 ```
 
 ## 4. Cómo ejecutarlo
