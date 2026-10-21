@@ -1,0 +1,3 @@
+# El proyecto usa sólo la biblioteca estándar de Python (3.10 o superior):
+# csv, json, re, statistics, argparse, dataclasses, unittest.
+# No hace falta instalar paquetes adicionales.
